@@ -412,7 +412,7 @@ by Bram Cohen[merkleset].
 
 Later iterations of our data structure began storing colliding prefix bits on
 internal nodes, resulting in a base-2 merkelized radix tree similar to the
-_Merklix Tree_[merklix-1][merklix-2] proposed by Amaury Séchet.
+_Merklix Tree_[merklix-1][merklix-2] proposed by Amaury SÃ©chet.
 
 As the backbone of our FFMT, we propose one of the two aforementioned data
 structures.
@@ -906,7 +906,7 @@ occur at the output level.
 ## Covenants
 
 _Bitcoin Covenants_, first explored by Maxwell[maxwell-1][maxwell-2] and later
-formally described by Möser et al[covenants], are a form of smart contracts
+formally described by MÃ¶ser et al[covenants], are a form of smart contracts
 that exist on a UTXO-based blockchain such as Bitcoin. The word "covenant"
 itself refers to a legally binding covenant, in which a party agrees to refrain
 from or participate in a certain action in the future. Covenants, at their most
